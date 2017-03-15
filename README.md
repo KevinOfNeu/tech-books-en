@@ -5,15 +5,15 @@ Here are list of tech books in pure English with great classification!
 Share IT tech books.
 
 ## How to Get These Books
-0. Search books you want from the [Book List](#Book List) below.
-1. Create an issue with title "Wanna Books", list books name you want like this:
+- Search books you want from the [Book List](#Book List) below.
+- Create an issue with title "Wanna Books", list books name you want like this:
+
    ```
      1. direct3d_rendering_cookbook.pdf
      2. build_your_own_paas_with_docker.pdf
    ```
-
    Most importanly, leave your email !
-2. I will send those books via email ! :P
+- I will send those books via email ! :P
 
 ## Book List
 
